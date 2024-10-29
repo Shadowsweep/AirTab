@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Manager Pro",
+    "version": "1.0",
+    "description": "Organize and manage your browser tabs efficiently",
+    "permissions": ["tabs", "storage"],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
+  
