@@ -23,5 +23,8 @@
 2. Use the "Close" button next to each tab to close it.
 3. To restore a closed tab, go to the " Recently Closed " section and click "Restore" next to the tab you want to reopen.
 ![image](https://github.com/user-attachments/assets/3619c790-3e1c-4922-b446-77229b914617)
+---
+![image](https://github.com/user-attachments/assets/fc510a1d-5d7e-4db9-9c2e-44c9ac02d8b1)
+
 
 
