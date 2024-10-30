@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Tab Manager Pro",
+    "name": "AirTab",
     "version": "1.0",
     "description": "Organize and manage your browser tabs efficiently",
     "permissions": ["tabs", "storage"],
